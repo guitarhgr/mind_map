@@ -1,2 +1,4 @@
 # mind_map
-学习思维导图
+```
+this is my learn or read mind map
+```
